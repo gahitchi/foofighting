@@ -1,0 +1,7 @@
+C:\Users\gahia\Desktop\foofighting2\bin\Debug\foofighting2.exe.config
+C:\Users\gahia\Desktop\foofighting2\bin\Debug\foofighting2.exe
+C:\Users\gahia\Desktop\foofighting2\bin\Debug\foofighting2.pdb
+C:\Users\gahia\Desktop\foofighting2\obj\Debug\foofighting2.csproj.AssemblyReference.cache
+C:\Users\gahia\Desktop\foofighting2\obj\Debug\foofighting2.csproj.CoreCompileInputs.cache
+C:\Users\gahia\Desktop\foofighting2\obj\Debug\foofighting2.exe
+C:\Users\gahia\Desktop\foofighting2\obj\Debug\foofighting2.pdb
